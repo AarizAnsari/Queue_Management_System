@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088983823737",
+    "project_id": "queue-management-d469d",
+    "storage_bucket": "queue-management-d469d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088983823737:android:96e8e08bf2f1fd7c17aba8",
+        "android_client_info": {
+          "package_name": "com.qmanage.queue_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088983823737-hvfnb7eg860960f845l4jlu17lq37ioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0nWD-ros0xrezMHORMj1nbkimN6vzLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088983823737-hvfnb7eg860960f845l4jlu17lq37ioq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
